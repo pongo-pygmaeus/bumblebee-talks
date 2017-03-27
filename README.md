@@ -26,12 +26,13 @@ cloned then pull the latest version of master).
 
 ### Submission
 
-Submitting your lightning talk comes in two parts.
+Submitting your lightning talk comes in two parts. Both must be completed to receive credit for the talk.
 
 1. Giving the talk itself.
 
 - Lightning talks are 4~5 minute talks covering a topic or answering a question.
 - Because you only have 5 minutes, you must prioritize what is the most important part of a topic.
+- You can whiteboard out complex topics on a mobile board before we start.
 - Lightning talks are whiteboard and speech based only. (No computers)
 - Lightning talks will be conducted each day immediately after 2:00 stand-up and before breakouts.
 

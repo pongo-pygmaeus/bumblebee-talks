@@ -1,5 +1,10 @@
 ## Lightning Talks
 
+The goal here is three fold.
+- First to get you comfortable with talking through technical topics in front of a group
+- Second to expose you to more knowledge than you otherwise would have been in Phase 2.
+- Third to get you comfortable documenting technical data and sharing it with your peers.
+
 ### Topics
 
 [Week 1](1-week.md)
@@ -36,5 +41,6 @@ Submitting your lightning talk comes in two parts.
 - Add a link to your documentation to the documentation section of this document.
 - Follow the process above for branching and merging this time with a branch name of "your-name-your-topic"
 - Push up your file and open a PR
+
 
 ### Documentation

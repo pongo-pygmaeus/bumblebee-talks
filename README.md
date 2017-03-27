@@ -7,8 +7,8 @@ The goal here is three fold.
 
 ### Topics
 
-- [Week 1](1-week.md)
-- [Week 2](2-week.md)
+- [Week 1](2-phase/1-week.md)
+- [Week 2](2-phase/2-week.md)
 
 ### Sign up
 

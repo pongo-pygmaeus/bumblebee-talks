@@ -12,7 +12,9 @@ The goal here is three fold.
 
 ### Sign up
 
-Everyone will do a lightning talk every week. To sign-up for a talk:
+Everyone will do a minimum of 1 lightning talk every week. If you're feeling extra froggy, you can sign up for more...
+
+To sign-up for a talk:
 
 1. Check if there are any open pull request to the guide for lightning talks.
 Merge these into master(on github).

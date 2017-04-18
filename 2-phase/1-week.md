@@ -4,12 +4,12 @@
 
 - NAME - How does Sinatra handle DELETE and PUT routes?
 - NAME - What are the different HTTP methods?
-- NAME - What is an IP address?
+- Denise - What is an IP address?
 - NAME - What is a port?
 - NAME - RACK
 - NAME - Why use REST
 - NAME - What do before and after filters do in Sinatra?
- 
+
 ### Git Topics
 - NAME - git add -p (and why its awesome!)
 

@@ -9,6 +9,9 @@
 - NAME - RACK
 - NAME - Why use REST
 - NAME - What do before and after filters do in Sinatra?
+ 
+### Git Topics
+- NAME - git add -p (and why its awesome!)
 
 ## Thursday: ActiveRecord!
 
@@ -18,6 +21,10 @@
 - NAME - Def change vs up/down in Active Record migrations
 - NAME - How do you use eager loading to avoid the N + 1 queries problem?
 
+### Git Topics
+- NAME - What makes a good pull request?
+- NAME - What makes a good commit?
+
 ## Friday: CSS and HTML!
 
 - NAME - CSS inheritance
@@ -26,3 +33,8 @@
 - NAME - Fragment identifiers
 - NAME - CSS specificity & point model
 - NAME - CSS :before and :after
+
+### Git Topics
+- NAME - git clone vs fork vs branch… why do any of them?
+- NAME - git HEAD
+- NAME - What is a REFSPEC?

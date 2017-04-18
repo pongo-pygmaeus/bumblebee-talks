@@ -1,14 +1,5 @@
 # Week 1 Lightning Talks
 
-## Tuesday: Git!
-
-- NAME - git add -p (and why its awesome!)
-- NAME - What makes a good pull request?
-- NAME - What makes a good commit?
-- NAME - git clone vs fork vs branch… why do any of them?
-- NAME - git HEAD
-- NAME - What is a REFSPEC?
-
 ## Wednesday: The Internet!
 
 - NAME - How does Sinatra handle DELETE and PUT routes?

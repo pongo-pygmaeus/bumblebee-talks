@@ -30,8 +30,8 @@
 ## Friday: CSS and HTML!
 
 - Denise - Data attributes in HTML
-- Iliyan- CSS inheritance
-- NAME - CSS box model
+- Iliyan - CSS inheritance
+- Fei - CSS box model
 - NAME - Fragment identifiers
 - NAME - CSS specificity & point model
 - NAME - CSS :before and :after

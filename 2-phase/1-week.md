@@ -23,7 +23,7 @@
 
 ### Git Topics
 - NAME - What makes a good pull request?
-- NAME - What makes a good commit?
+- MINA - What makes a good commit?
 
 ## Friday: CSS and HTML!
 

@@ -4,8 +4,10 @@
 
 - NAME - How does Sinatra handle DELETE and PUT routes?
 - NAME - What are the different HTTP methods?
-- Denise - What is an IP address?
+
+- NAME - What is an IP address?
 - Brian Wong - What is a port?
+
 - NAME - RACK
 - NAME - Why use REST
 - NAME - What do before and after filters do in Sinatra?
@@ -27,8 +29,8 @@
 
 ## Friday: CSS and HTML!
 
+- Denise - Data attributes in HTML
 - Iliyan- CSS inheritance
-- NAME - Data attributes in HTML
 - NAME - CSS box model
 - NAME - Fragment identifiers
 - NAME - CSS specificity & point model

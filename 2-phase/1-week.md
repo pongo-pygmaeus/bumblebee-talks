@@ -27,7 +27,7 @@
 
 ## Friday: CSS and HTML!
 
-- NAME - CSS inheritance
+- Iliyan- CSS inheritance
 - NAME - Data attributes in HTML
 - NAME - CSS box model
 - NAME - Fragment identifiers

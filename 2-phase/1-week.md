@@ -8,7 +8,7 @@
 - NAME - What is a port?
 - NAME - RACK
 - NAME - Why use REST
-- NAME - What do before and after filters do in Sinatra?
+- Harini - What do before and after filters do in Sinatra?
 
 ### Git Topics
 - NAME - git add -p (and why its awesome!)

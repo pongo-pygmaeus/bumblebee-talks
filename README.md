@@ -1,6 +1,6 @@
 ## Lightning Talks
 
-The goal here is three fold.
+ The goal here is three fold.
 - First to get you comfortable with talking through technical topics in front of a group
 - Second to expose you to more knowledge than you otherwise would have been in Phase 2.
 - Third to get you comfortable documenting technical data and sharing it with your peers.

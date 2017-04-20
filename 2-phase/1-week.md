@@ -37,6 +37,6 @@
 - NAME - CSS :before and :after
 
 ### Git Topics
-- NAME - git clone vs fork vs branch… why do any of them?
+- Elaine - git clone vs fork vs branch… why do any of them?
 - NAME - git HEAD
 - NAME - What is a REFSPEC?

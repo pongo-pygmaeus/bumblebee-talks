@@ -18,7 +18,7 @@
 ## Thursday: ActiveRecord!
 
 - NAME - Complex associational mapping in Active Record (:source, :foreign_key)
-- NAME - Scopes in Active Record
+- Brian Lee - Scopes in Active Record
 - NAME - Where is my database file when using postgresql?
 - NAME - Def change vs up/down in Active Record migrations
 - NAME - How do you use eager loading to avoid the N + 1 queries problem?

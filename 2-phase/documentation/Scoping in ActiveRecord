@@ -1,0 +1,46 @@
+Scoping
+Brian Lee
+
+Scoping allows you to specify commonly-used queries which can be referenced as method calls on the association objects or models. 
+With these scopes, you can use every method previously covered such as where, joins and includes. 
+All scope methods will return an ActiveRecord::Relation object which will allow for further methods (such as other scopes) to be called on it.
+
+
+To define a simple scope, we use the scope method inside the class, passing the query that we'd like to run when this scope is called:
+
+class Article < ApplicationRecord
+  scope :published, -> { where(published: true) }
+end
+
+This is exactly the same as defining a class method, and which you use is a matter of personal preference:
+
+class Article < ApplicationRecord
+  def self.published
+    where(published: true)
+  end
+end
+
+Scopes are also chainable within scopes:
+
+class Article < ApplicationRecord
+  scope :published,               -> { where(published: true) }
+  scope :published_and_commented, -> { published.where("comments_count > 0") }
+end
+
+To call this published scope we can call it on either the class:
+
+Article.published # => [published articles]
+Or on an association consisting of Article objects:
+
+category = Category.first
+category.articles.published # => [published articles belonging to this category]
+
+Just like where clauses scopes are merged using AND conditions.
+
+class User < ApplicationRecord
+  scope :active, -> { where state: 'active' }
+  scope :inactive, -> { where state: 'inactive' }
+end
+ 
+User.active.inactive
+# SELECT "users".* FROM "users" WHERE "users"."state" = 'active' AND "users"."state" = 'inactive'

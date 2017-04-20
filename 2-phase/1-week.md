@@ -24,7 +24,7 @@
 - NAME - How do you use eager loading to avoid the N + 1 queries problem?
 
 ### Git Topics
-- NAME - What makes a good pull request?
+- Stacy - What makes a good pull request?
 - MINA - What makes a good commit?
 
 ## Friday: CSS and HTML!

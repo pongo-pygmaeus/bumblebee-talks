@@ -29,7 +29,7 @@
 
 - NAME - CSS inheritance
 - NAME - Data attributes in HTML
-- NAME - CSS box model
+- Harini - CSS box model
 - NAME - Fragment identifiers
 - NAME - CSS specificity & point model
 - NAME - CSS :before and :after

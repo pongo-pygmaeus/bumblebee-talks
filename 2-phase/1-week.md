@@ -33,7 +33,7 @@
 - Iliyan - CSS inheritance
 - Fei - CSS box model
 - NAME - Fragment identifiers
-- NAME - CSS specificity & point model
+- Harini - CSS specificity & point model
 - NAME - CSS :before and :after
 
 ### Git Topics

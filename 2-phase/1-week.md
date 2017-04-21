@@ -34,7 +34,7 @@
 - Fei - CSS box model
 - NAME - Fragment identifiers
 - Harini - CSS specificity & point model
-- NAME - CSS :before and :after
+- Ian - CSS :before and :after
 
 ### Git Topics
 - Elaine - git clone vs fork vs branch… why do any of them?

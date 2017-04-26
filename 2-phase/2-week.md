@@ -22,7 +22,7 @@
 - NAME - .call() and .apply()
 - NAME - .bind()
 - NAME - event delegation
-- NAME - What is a prototype in JavaScript
+- Harini - What is a prototype in JavaScript
 - NAME - Traversing the DOM in vanilla JavaScript without querySelector or querySelectorAll
 
 ## Thursday: JavaScript Libraries and Frameworks
@@ -38,7 +38,7 @@ These subjects can run 5-10 minutes if needed.
 
 ## Friday: Advanced HTML and CSS
 
-- NAME - HTML5 form validation
+- Harini - HTML5 form validation
 - NAME - HTML local storage
 - Fei - Canvas
 - NAME - CSS3 pseudo classes ( :nth-child(n), :not(s), :empty )
